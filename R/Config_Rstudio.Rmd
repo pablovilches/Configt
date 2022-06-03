@@ -58,7 +58,7 @@ usethis::edit_r_environ()
 ```
 
 
-Reinicia R y verifica la configuración con:
+Reinicia R  y verifica la configuración con:
 
 
 ```{r}
