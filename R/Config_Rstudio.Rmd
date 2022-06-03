@@ -85,7 +85,7 @@ haga su propia copia del repositorio en GitHub. Las bifurcaciones están vincula
 
 ## Crear solicitud de extracción (pull request) en su repo
 
-## Agregar control remoto ascendente (upstream) de la rama fusionada
+#.# Agregar control remoto ascendente (upstream) de la rama fusionada
 
 El Flujo de Trabajo en GitHub
 
