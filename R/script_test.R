@@ -9,4 +9,4 @@ a <- as.data.frame(z)
 
 #install.packages("tidyverse")
 library(tidyverse)
-write_csv(a, "raw_data/data_toy.csv")
+write_csv(a, "raw_data/data_prueba_modificado.csv")
